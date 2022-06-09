@@ -23,7 +23,7 @@ function Calcular(){
 
 }
 
-function Recalcular(cantidad){
+function Dividir(cantidad){
     total = 0;
     apagar = 0;
     for(let i=0; i < montos.length; i++){
