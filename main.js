@@ -1,7 +1,6 @@
 var nombres = [];
 var montos = [];
 var total = 0;
-var jsonFormateado = JSON.stringify(coche, null, '\t'); 
 
 
 
@@ -92,8 +91,12 @@ function Imprimir(){
 }
 
 
-function requiere() {
-
-
+function guardar(){
+    let jsonm = {
+        nombres: JSON. stringify(nombres),
+        gastos: JSON. stringify(montos)
+      };
+console.log(jsonm)
 }
+
 
