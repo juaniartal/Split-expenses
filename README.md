@@ -1,2 +1,2 @@
 ﻿# Split-expenses
-Procesador-de-cheques del curso Full Stack Developer, realizado por el ITBA.
+Split expenses of the Full Stack Developer course, carried out by ITBA.
